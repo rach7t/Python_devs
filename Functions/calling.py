@@ -11,3 +11,8 @@ def greet_students(name):
 
 greet_students("Alice")
 greet_students("Bob")
+
+def display():
+    print("welcome to python")
+
+display()
