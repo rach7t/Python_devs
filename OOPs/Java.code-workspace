@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": "Java",
+			"path": "../../Users/rachi/OneDrive/Desktop/Java"
+		},
+		{
+			"name": "python",
+			"path": ".."
+		},
+		{
+			"path": "../../FSD"
+		},
+		{
+			"path": "../../Users/rachi/OneDrive/Desktop/ProjectShakti"
+		},
+		{
+			"path": "../../Users/rachi/OneDrive/Desktop/DeskkkMana"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "FSD",
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}

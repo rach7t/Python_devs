@@ -9,5 +9,5 @@ class Student:
         ab.branch=b
 
 s0=Student()
-s1=Student(123,"ravi","cse-aiml")
-s2=Student(456,"ramesh","cse-aiml")
+s1=Student(123,"Vantika","cse")
+s2=Student(444,"Jyotika","cse")
